@@ -3,7 +3,7 @@
 地面站的显示页面主要由导航栏、状态栏和中央地图页面组成，如下所示。
 为了保证界面简洁，大部分按键以图标的方式显示，鼠标悬停3秒即可显示提示信息。 
 
-<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Overall%20Ground%20Station.png" width=400 height=200 />  
+<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Map%20interaction.png" width=400 height=200 />  
 
 ### 1.导航栏的选项卡：
 

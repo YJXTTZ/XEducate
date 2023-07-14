@@ -11,7 +11,7 @@
 
 Introduction
 Hardware/Index
-UControl/Index
+Transmitter/Index
 GControl/Index
 ```
 

@@ -5,7 +5,7 @@
 地面站的显示页面主要由导航栏、状态栏和中央地图页面组成，如下所示。
 为了保证界面简洁，大部分按键以图标的方式显示，鼠标悬停3秒即可显示提示信息。 
 
-<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Map%20interaction.png" width=600 height=300 />  
+<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Map%20interaction.png" width=700 height=350 />  
 
 ### 1.导航栏的选项卡：
 
@@ -13,17 +13,17 @@
 ><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Manipulation%20tab.png" >
 
 >1.2 任务选项卡（点击任意位置可以添加任务点，中心按键可以使你所在位置居中，删除按键可以删除一个任务点、清除按键可以删除所有任务点、计算按键可以生成等间距点、执行次数默认为1，输入是0时表示回到第一个任务点，上传按键可以将任务上传到船控、下载按键可以将船控中的任务下载到地面站显示，搜索栏可以搜索位置）  
-><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20Station%20Task%20Mode.png" width=600 height=300 />
+><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20Station%20Task%20Mode.png" width=700 height=350 />
 
 >1.3 日志选项卡（暂时没有开放）  
 
 >1.4 PID配置选项卡（配置后保存在船控中）  
 > 
-><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20station%20pid%20configuration.png" width=600 height=300 />
+><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20station%20pid%20configuration.png" width=700 height=350 />
 
 >1.5 地面站配置选项卡（地图供应商选择、视频流地址配置）  
 > 
-><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20Station%20Configuration.png" width=600 height=300 />
+><image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Ground%20Station%20Configuration.png" width=700 height=350 />
 
 ### 2.状态栏的选项卡
 
@@ -31,7 +31,7 @@
 底部状态栏显示无人船当前的航向和航速
 ### 3.控制模式  
 
-<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/control%20model.png" width=600 height=300 />
+<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/control%20model.png" width=700 height=350 />
 
 * 锁定模式：将控制权锁定，遥控器无法控制
 * 遥控器模式：将控制权交给遥控器
@@ -43,7 +43,7 @@
 
 ### 4.地图交互与快捷键  
 
-<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Map%20interaction.png" width=600 height=300 />  
+<image src="https://raw.githubusercontent.com/udreams/XEducate/main/GControl/Images/Map%20interaction.png" width=700 height=350 />  
 
 * 对地图进行搜索，
 * 顺时针和逆时针旋转地图，

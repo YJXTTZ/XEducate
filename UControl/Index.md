@@ -2,7 +2,7 @@
 
 ## 遥控器主要功能与操作说明
 本节主要介绍软件常用的功能与按键操作演示,遥控器常用控件主要为电源、SB、左/右摇杆。  
-<img src='Images/remote_control_1.png'>
+<img src='https://raw.githubusercontent.com/YJXTTZ/XEducate/main/UControl/Images/remote_control_1.png'>
 
 ### 1、遥控器主要功能
 > 遥控器的主要功能分为锁定、遥控以及任务三种模式，SB控件分为上、中、下三档，将SB控件拨至最上方
@@ -16,6 +16,6 @@
 > 3、触控屏右上角表示当前遥控器所剩电量，左下角Ext表示船体供电电池所剩电量  
 > 4、往下拨动SB控件至底部，由非遥控模式变为遥控模式，往前推动左摇杆，电机往后排水，往后推动左摇杆，电机往前排水，左推右摇杆，右点击往后排水，右推右摇杆，左电机往后排水  
 > 遥控器触控屏确定按键
-><image src='Images/remote_control_2.png'>    
+><image src='https://raw.githubusercontent.com/YJXTTZ/XEducate/main/UControl/Images/remote_control_2.png'>    
 > 遥控器触控屏信息
-><image src='Images/remote_control_3.png'>
+><image src='https://raw.githubusercontent.com/YJXTTZ/XEducate/main/UControl/Images/remote_control_3.png'>

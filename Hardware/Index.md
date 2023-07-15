@@ -6,12 +6,12 @@
 
 ## 系统概览
 
-![Overview](./Images/Overview.png)
+![Overview](Images/Overview.png)
 
 ## 整体尺寸
 
-![Size](./Images/Size.png)
+![Size](Images/Size.png)
 
 ## 整体电路
 
-![Wiring](./Images/Wiring.png)
+![Wiring](Images/Wiring.png)

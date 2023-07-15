@@ -2,28 +2,28 @@
 
 本节主要介绍软件常用的功能与按键操作演示。地面站的显示页面主要由导航栏、状态栏和中央地图页面组成，如下所示。为了保证界面简洁，大部分按键以图标的方式显示，鼠标悬停3秒即可显示提示信息。
 
-![Overall](./Images/Overall.png)
+![Overall](Images/Overall.png)
 
 ## 导航栏的选项卡
 
 **操控选项卡**（航向0-360度、航速0-5米，舵量-1000到+1000负左正右、推力-1000到+1000负退正前）
 
-![Control](./Images/Control.png)
+![Control](Images/Control.png)
 
 **任务选项卡**
 （点击任意位置可以添加任务点，中心按键可以使你所在位置居中，删除按键可以删除一个任务点、清除按键可以删除所有任务点、计算按键可以生成等间距点、执行次数默认为1，输入是0时表示回到第一个任务点，上传按键可以将任务上传到船控、下载按键可以将船控中的任务下载到地面站显示，搜索栏可以搜索位置）
 
-![Missions](./Images/Missions.png)
+![Missions](Images/Missions.png)
 
 **日志选项卡**（暂时没有开放）
 
 **PID配置选项卡**（配置后保存在船控中）
 
-![VehicleConfigurations](./Images/VehicleConfigurations.png)
+![VehicleConfigurations](Images/VehicleConfigurations.png)
 
 **地面站配置选项卡**（地图供应商选择、视频流地址配置）
 
-![GcsConfigurations](./Images/GcsConfigurations.png)
+![GcsConfigurations](Images/GcsConfigurations.png)
 
 ## 状态栏的选项卡
 
@@ -31,7 +31,7 @@
 
 ## 控制模式
 
-![Modes](./Images/Modes.png)
+![Modes](Images/Modes.png)
 
 * 锁定模式：将控制权锁定，遥控器无法控制
 * 遥控器模式：将控制权交给遥控器
@@ -43,7 +43,7 @@
 
 ## 地图交互
 
-![Maps](./Images/Maps.png)
+![Maps](Images/Maps.png)
 
 * 对地图进行搜索，
 * 顺时针和逆时针旋转地图，

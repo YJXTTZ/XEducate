@@ -4,11 +4,11 @@
 
 遥控器正面
 
-![Front](./Images/Front.png)
+![Front](Images/Front.png)
 
 遥控器反面
 
-![Back](./Images/Back.png)
+![Back](Images/Back.png)
 
 ## 遥控器主要功能
 
@@ -23,8 +23,8 @@
 
 遥控器触控屏确定按键
 
-![Confirm](./Images/Confirm.png)
+![Confirm](Images/Confirm.png)
 
 遥控器触控屏信息
 
-![Information](./Images/Information.png)
+![Information](Images/Information.png)
